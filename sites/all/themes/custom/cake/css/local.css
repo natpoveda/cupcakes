@@ -1,0 +1,55 @@
+/* Custom CSS overrides */
+
+
+/*quicktabs*/
+ #quicktabs-ingredientes_home .views-row.views-row-odd{
+         width: 45%;
+	 float: left;  
+  	 padding: 15px; 
+	}
+
+ #quicktabs-ingredientes_home .views-row.views-row-even{
+         width: 45%;
+	 float: right;   
+	 padding: 15px;
+	}
+
+ #quicktabs-ingredientes_home .view-content{
+	padding:20px;
+	}
+
+ #quicktabs-ingredientes_home ul.quicktabs-tabs.quicktabs-style-zen li a{
+        font-weight: bold;
+	font-family: 'Open Sans', sans-serif !important;
+	font-size: 30px;
+ }
+ #quicktabs-ingredientes_home ul.quicktabs-tabs.quicktabs-style-zen li{
+  background:none !important;
+ }
+
+/*quicktabs*/
+
+
+
+/*node cupcake*/
+
+.node-type-cupcake .group-right{
+	width: 45%;
+	float: right;
+	
+}
+
+.node-type-cupcake .group-left{
+	width: 50%;
+	float: left;
+	margin: auto;
+	align-content: center;
+	padding: 16px;	
+}
+
+.flag-outer-cupcakes a{
+	font-size: 24px !important;
+}
+.view-flags a{
+	font-size: 24px !important;
+}
